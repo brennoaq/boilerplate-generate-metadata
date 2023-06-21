@@ -1,11 +1,11 @@
 {
-  "name": "someName",
-  "description": "someDescription", 
+  "name": "name example #1",
+  "description": "description", 
   "animation_url": "ipfs://bafybeibdmjyzxi237akeovfhsrbvaublcvpfyemy2dgq2g4f3mjotag5mu/animation_url/0.mp4",
   "attributes": [
     {
       "trait_type": "Year Of Creation",
-      "value": "2022"
+      "value": "2023"
     }
   ]
 }
